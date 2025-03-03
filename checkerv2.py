@@ -8,7 +8,8 @@ import random
 import subprocess
 from colorama import init, Fore, Style
 # Define the input and output file names
-path = Path("/mnt/c/Users/RReaist12/Downloads")
+#do some changes to the path
+path = Path("/mnt/c/Users/user/Downloads")
 input_file = path / 'hits.txt'
 output_file = path / 'links.txt'
 
